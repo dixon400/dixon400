@@ -1,6 +1,6 @@
  <H1> &#128075;&#127998; Hi, there &#128075;&#127998; </H1>
  
- <p> My name is <em>Muyideen Khalifa</em> </p>
+ <p> My name is <em>Muyideen, Khalifa</em> </p>
  
 <p> 📫 How to reach me: I can be found on LinkedIn and Twitter, oh yeah <strong>GITHUB </strong>&#128540; </p>
 
